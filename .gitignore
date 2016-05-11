@@ -3,3 +3,4 @@ test
 assets
 *.mov
 README.html
+.DS_Store
