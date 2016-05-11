@@ -1,0 +1,11 @@
+cycler==0.10.0
+et-xmlfile==1.0.1
+jdcal==1.2
+matplotlib==1.5.1
+numpy==1.11.0
+openpyxl==2.3.4
+pyparsing==2.1.1
+python-dateutil==2.5.2
+pytz==2016.3
+scipy==0.17.0
+six==1.10.0
