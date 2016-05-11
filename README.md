@@ -15,6 +15,6 @@ GraphTool has some filters; Gaussian filter, Average filter
 1. python3 GraphTool.py
 
 ### Author
-Author : Sung-ju Kim
-Email : goddoe2@gmail.com
++ Author : Sung-ju Kim
++ Email : goddoe2@gmail.com
 
